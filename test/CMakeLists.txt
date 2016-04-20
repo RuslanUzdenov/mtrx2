@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 2.8)
 
-set(TESTS_FOR_PROJECT mtrx_tmpld)
+set(TESTS_FOR_PROJECT mtrx2)
 
 project(Tests)
 
